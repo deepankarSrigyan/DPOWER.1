@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: DPOWER\nType: Package\nTitle: To run the Report\nVersion: 0.1.0\nAuthor: Deepankar Srigyan\nMaintainer: Deepankar.srigyan <deepankar.srigyan@exlservice.com>\nDescription: Its run the report for BGRE\nLicense: EXL\nEncoding: UTF-8\nLazyData: true\nRoxygenNote: 6.0.0\n",
+    "created" : 1485949332990.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2872939910",
+    "id" : "C919F83A",
+    "lastKnownWriteTime" : 1485949442,
+    "last_content_update" : 1485949442,
+    "path" : "C:/Users/deepankar76967/Desktop/Current Project/BGB R Project/Package 1.0/DPOWER.1/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}
